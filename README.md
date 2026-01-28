@@ -1,6 +1,6 @@
 # TPU Big Data Analytics — Lab 1: CSV Data Analyzer (No Pandas)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/tpu-bigdata-lab1-csv-analyzer/blob/main/Lab01.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/tpu-bigdata-lab1-csv-analyzer/blob/main/Lab_01.ipynb)
 
 
 Лабораторная работа №1 по курсу **«Аналитика больших данных»**  
