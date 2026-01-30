@@ -1,10 +1,6 @@
-# TPU Big Data Analytics — Lab 1: CSV Data Analyzer (No Pandas)
+# TPU Big Data Analytics —  CSV Data Analyzer (No Pandas)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/tpu-bigdata-lab1-csv-analyzer-no-pandas/blob/main/Lab_01.ipynb)
-
-Лабораторная работа №1 по курсу **«Аналитика больших данных»**  
-Национальный исследовательский Томский политехнический университет (ТПУ), 2025 г.  
-
 
 ## Описание
 Реализация обработки CSV-датасета **только средствами стандартной библиотеки Python** (без `pandas`, `numpy`, `scikit-learn`):
